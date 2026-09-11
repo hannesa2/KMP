@@ -2,12 +2,8 @@
 
 ### iOS
 
-<video src="./videos/iOS.mov" controls width="320">
-  Your browser does not support the video tag.
-</video>
+[![iOS demo](./videos/iOS-preview.gif)](./videos/iOS.mov)
 
 ### Android
 
-<video src="./videos/android.mov" controls width="320">
-  Your browser does not support the video tag.
-</video>
+[![Android demo](./videos/android-preview.gif)](./videos/android.mov)
